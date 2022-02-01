@@ -3,7 +3,6 @@
 
 import easygui 
 import keyboard
-import file_path_adder
 from selenium import webdriver as Driver
 from selenium.webdriver.support.expected_conditions import presence_of_element_located as located
 from selenium.webdriver.support.wait import WebDriverWait as Wait
