@@ -1,4 +1,3 @@
-import file_path_adder
 from selenium.webdriver import Chrome
 from webdriver_manager.chrome import ChromeDriverManager as CM
 from selenium.webdriver.common.by import By
